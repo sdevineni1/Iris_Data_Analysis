@@ -14,6 +14,7 @@ Explore the Iris dataset with ease! Our Python tool offers data visualization, s
 2. Ensure you have Python installed along with the necessary libraries: `numpy`, `scipy`, `sklearn`, and `matplotlib`.
 3. Run the script using:
 <img width="757" alt="Screenshot 2024-05-06 at 4 50 16 PM" src="https://github.com/sdevineni1/Iris_Data_Analysis/assets/79378793/5595a340-cb94-495f-8443-1aea40986f77">
+
 4. Follow the prompts to choose the analysis function you wish to perform.
 
 ## Dependencies
